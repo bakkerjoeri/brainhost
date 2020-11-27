@@ -1,0 +1,30 @@
+<html>
+<title>
+Brainhost Productions >> Iets
+</title>
+<script language="JavaScript" src="no_errors.js"></script>  
+<body bgcolor="#F4F7FC" link="#0066FF" vlink="#0066FF" alink="#0066FF">
+<font size="2" face="Ariel">
+
+<table width="200" height="25">
+<tr>
+<td width="200" height="25" background="title_line.gif">
+&nbsp;&nbsp;<b>Iets</b>
+</td>
+</tr>
+</table>
+
+<font size="1">
+
+[-- date: 
+<script language="javascript" src="datum.js"></script> 
+--]
+
+<font size="2"> 
+<br> 
+<br>
+
+</font>
+</body
+
+</html>

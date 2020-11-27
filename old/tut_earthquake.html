@@ -1,0 +1,87 @@
+<html>
+<title>
+Brainhost Productions >> Earthquake
+</title>
+
+<script language="JavaScript"> 
+function blockError(){return true;} 
+window.onerror = blockError;  
+</script>
+
+<body bgcolor="#C4C4C4" link="#0066FF" vlink="#0066FF" alink="#0066FF">
+<font size="2" face="tahoma">
+
+<table width="200" height="25">
+<tr>
+<td width="200" height="25" background="title_line.gif">
+&nbsp;&nbsp;&nbsp;&nbsp;Earthquake Tutorial
+</td>
+</tr>
+</table>
+
+<font size="1">[-- datum: 
+
+<SCRIPT LANGUAGE="JavaScript"> 
+<!-- datum //
+ 
+nu = new Date () 
+dag = nu.getDate() 
+document.write (dag) 
+document.write ("-") 
+maand = nu.getMonth() +1 
+document.write (maand) 
+document.write ("-") 
+jaar = nu.getYear() 
+document.write (jaar) 
+
+//--> 
+</SCRIPT> --]
+<font size="2">
+<br>
+<br>
+<b>Benodigdheden</b><br>
+- GM 5.3A<br>
+- 1 sprite<br>
+- 1 background<br>
+<br>
+Nou, laten we maar beginnen!<br>
+<br>
+<b>Maak 1 object:</b><br>
+-Earthquake<br>
+<br>
+<b>In object Earthquake:</b><br>
+<u>-In de object opties</u><br>
+Gewoon de normale settings behalve dat je 'visable' uit moet zetten<br>
+<br>
+<u>-In de create event</u><br>
+--> viewsidesmax = 32 <font color="darkgreen"><i>// hoe hoger dit getal, hoe langer en harder de aardbeving</i><font color="000000"><br>
+<br>
+<u>-In de step-event</u><br>
+--> viewsidesmax -= 1 <font color="darkgreen"><i>// dit regelt het minder snel gaan van de schudden. Hoe hoger dit getal, hoe korter de aarbeving.</i><font color="000000"><br>
+--> if (viewsidesmax < 1) {viewsidesmax = } <br>
+--> view_right += random(viewsidesmax)-random(viewsidesmax) <font color="darkgreen"><i>// dit regelt het schudden van de view van links en rechts</i><font color="000000"><br>
+    view_bottom += random(viewsidesmax)-random(viewsidesmax) <font color="darkgreen"><i>// dit regelt het schudden van de view van top en bodem</i><font color="000000"><br>
+<br>
+<b>Opmerkingen</b><br>
+--> Gebruik een goed zichtbare achtergrond met meerdere kleuren en/of vormen.<br>
+--> In de room waar je de Earthquake gebruikt moet je 'Enable use of views' en <br>
+'visable when room starts' in de view tab aanvinken.<br>
+--> Als je van plan bent geen ViewBorder gebruikt, vink dan'Draw background color'
+aan in de background tab. Deze kleur moet ongeveer 
+gelijk zijn aan die van het achtergrondplaatje.<br> 
+<br>
+En voilá, je hebt een aardig goed Aardbeving effect!<br>
+<br>
+<br>
+Je kan een beetje met deze effecten klooien om de aardbeving groter of kleiner,<br>
+heftiger of minder heftig, langer of korter enz.<br>
+<br>
+Geen zin om hem te maken? <a href="http://members.lycos.nl/brainhost/download_host/tripod_earthquake.html" target="_blank">Download</a> hem!<br>
+In deze versie zit nog: een extra explosie soundfx, een paar objects als decoratie<br>
+en een functie waardoor je de aardbeving eerst moet activeren.<br>
+<br>
+<a href="tutorials.html" target="_top">
+</font>
+</body
+
+</html>

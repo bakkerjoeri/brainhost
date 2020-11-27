@@ -1,0 +1,109 @@
+<html>
+<head> 
+<title> 
+Brainhost Productions 
+</title>
+<script language="javascript" src="highlight.js">
+</script>
+</head> 
+
+<body bgcolor="C0C0C0" background="bgpixel.gif" link="#0066FF" vlink="#0066FF" alink="#0066FF" bgproperties="fixed"> 
+<font size="2" face="MS Sans Serif"> 
+<center> 
+
+<table border="0" cellpadding="0" cellspacing="0" width="850"> 
+<tr> 
+<td width="250" height="74" background="language_select.gif"></td>  
+<td width="600" height="74" background="ls_side.gif"></td> 
+</tr>
+<tr>
+<td width="250" height="69" background="logoa.gif"></td>
+<td width="600" height="69" background="logob.gif"></td>
+</tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" width="850">
+<tr>
+<td valign="top" width="850" height="27" background="news_scroll.gif">
+<font size="1">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<marquee scrollamount="1" onMouseOver="this.stop();"  onMouseOut="this.start();" width="672">
+[3-11-2004] Welkom op de vernieuwde Brainhost site! De layout is nieuw, we hebben affiliates, een shoubox en een geheel nieuw <a href="http://s3.invisionfree.com/brainhost" target="_blank">forum</a>! Ik hoop dat de site en het forum beter bezocht zullen worden na deze acties. Ook ben ik van plan de site in 2 talen te maken. Nederlands en Engels! Veel plezier allemaal, op de vernieuwde Brainhost Site!
+</marquee></td> 
+</tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" width="850">
+
+<tr>
+<td width="176" height="630" background="index.gif" valign="top">
+<span style="position: relative; left: 15; top: 30;">
+<font size="1">
+<b>Site</b><br> 
+<a href="home.html" target="content">Home</a><br> 
+<a href="nieuws.html" target="content">Nieuws</a><br>
+<a href="http://s3.invisionfree.com/brainhost/index.php" target="_blank">Forum</a> (!)<br>
+<a href="oz_bestanden.html" target="content">Bestands Overzicht</a><br>
+<a href="contact.html" target="content">Contact</a><br>
+<a href="affiliate.html" target="content">Affiliate worden</a><br>
+<a href="link_ex.html" target="content">Link Exchange</a><br>
+<br>
+<b>Artikelen</b><br>
+<a href="arti_gm.html" target="content">GameMaker</a><br> 
+<a href="arti_games.html" target="content">Brainhost Games</a><br>
+<br>
+<b>Games</b><br>
+<a href="virusai1-1.html" target="content">Virus A.I. 1.1</a><br> 
+<a href="man.html" target="content">MaN</a><br>
+<a href="showcase.html" target="content">Showcase</a><br>
+<br>
+<b>Werken met Game Maker</b><br>
+<a href="oz_tut.html" target="content">Tutorials</a><br>
+<a href="rec_sprites.html" target="content">Sprites</a><br>
+<a href="rec_midi.html" target="content">Midi's</a><br>
+<br>
+<iframe src="http://205778.myshoutbox.com/" width="147" height="220" frameborder="0" allowTransparency="true"></iframe>
+
+<td width="555" height="630" background="content.gif" valign="top">
+<span style="position: relative; left: 2; top: 29">
+<iframe name="content" src="home.html" width="526" height="578" frameborder="false" scrolling="yes"></iframe>
+</span>
+</td>
+
+<td width="119" height="630" background="index2.gif">
+
+<div style="width:119px; height:142px;">
+<span style="position: relative; left: 7; top: 17">
+<a href="screen1.gif" target="_blank"><img src="screen1_small.gif" border="0" alt="Laatste screenshot!"></a>
+</span>
+</div>
+
+<div style="width:119px; height:103px;">
+<span style="position: relative; left: 10; top: 18;">
+<marquee width="100" height="52" scrollamount=1 scrolldelay="70" direction="up" onMouseOver="this.stop();"  onMouseOut="this.start();">
+<a href="http://www.gamemaker.nl/" target="_blank">
+<img src="http://www.gamemaker.nl/banners/banner2_web_s.png" border=0 alt="GameMaker Home" style="filter:alpha(opacity=50)" onmouseover="nereidFade(this,100,30,5)" onmouseout="nereidFade(this,10,50,5)">
+</a><br>
+<a href="http://www.s-studios.co.nr" target="_blank">
+<img src="http://mediafreak.dyndns.org/~s-studios/logo.gif" alt="S-studios page" width="88" height="31" border="0" style="filter:alpha(opacity=50)" onmouseover="nereidFade(this,100,30,5)" onmouseout="nereidFade(this,10,50,5)">
+</a><br>
+<a href="http://www.gmtop100.uni.cc/in.php?id=138" target="_blank">
+<img src="http://www.gmtop100.uni.cc/button.php?id=138" border="0" alt="GameMaker top 100" style="filter:alpha(opacity=50)" onmouseover="nereidFade(this,100,30,5)" onmouseout="nereidFade(this,10,50,5)">
+</a><br>
+<a target="_blank" href="http://www.factionwars.net">
+<img src="http://www.factionwars.net/banner.png" border="0" alt="Faction Wars home" style="filter:alpha(opacity=50)" onmouseover="nereidFade(this,100,30,5)" onmouseout="nereidFade(this,10,50,5)"></a>
+</span>
+</marquee>
+</div>
+
+<div style="width:119px; height:385px;"></div>
+
+</td>
+</tr>
+
+
+</table> 
+</center> 
+</font> 
+</body> 
+</html>
