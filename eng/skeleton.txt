@@ -25,7 +25,7 @@ Brainhost Productions
 <table border="0" cellpadding="0" cellspacing="0" width="850">
 <tr>
 <td valign="top" width="850" height="27" background="nl/news_scroll.gif">
-<font size="1">
+<font size="2">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <marquee scrollamount="1" onMouseOver="this.stop();"  onMouseOut="this.start();" width="672">
 [3-11-2004] You're viewing a preview of the Brainhost english site.
@@ -38,7 +38,7 @@ Brainhost Productions
 <tr>
 <td width="176" height="630" background="nl/index.gif" valign="top">
 <span style="position: relative; left: 15; top: 30;">
-<font size="1">
+<font size="2">
 <b>Site</b><br> 
 <a href="eng/home.html" target="content">Home</a><br> 
 <a href="eng/news.html" target="content">News</a><br>
@@ -94,7 +94,7 @@ Brainhost Productions
 
 <div style="width:119px; height:385px;">
 <span style="position: relative; left: 10; top: 18;">
-<font size="1">
+<font size="2">
 </font>
 </span>
 </div>
@@ -104,7 +104,7 @@ Brainhost Productions
 
 
 </table>
-<font size="1">
+<font size="2">
 <br>
 Hosted by: <a href="http://mykuhl.de/dhost/" target="blank">Dhost</a>
 </font>

@@ -25,7 +25,7 @@ Brainhost Productions
 <table border="0" cellpadding="0" cellspacing="0" width="850">
 <tr>
 <td valign="top" width="850" height="27" background="news_scroll.gif">
-<font size="1">
+<font size="2">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <marquee scrollamount="1" onMouseOver="this.stop();"  onMouseOut="this.start();" width="672">
 [3-11-2004] Welkom op de vernieuwde Brainhost site! De layout is nieuw, we hebben affiliates, een shoubox en een geheel nieuw <a href="http://s3.invisionfree.com/brainhost" target="_blank">forum</a>! Ik hoop dat de site en het forum beter bezocht zullen worden na deze acties. Ook ben ik van plan de site in 2 talen te maken. Nederlands en Engels! Veel plezier allemaal, op de vernieuwde Brainhost Site!
@@ -38,7 +38,7 @@ Brainhost Productions
 <tr>
 <td width="176" height="630" background="index.gif" valign="top">
 <span style="position: relative; left: 15; top: 30;">
-<font size="1">
+<font size="2">
 <b>Site</b><br> 
 <a href="home.html" target="content">Home</a><br> 
 <a href="nieuws.html" target="content">Nieuws</a><br>

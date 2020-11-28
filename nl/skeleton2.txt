@@ -14,7 +14,7 @@ Brainhost Productions >> Iets
 </tr>
 </table>
 
-<font size="1">
+<font size="2">
 
 [-- datum: 
 <script language="javascript" src="datum.js"></script> 
